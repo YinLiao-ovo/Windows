@@ -1,0 +1,103 @@
+{
+  "book-marks-section": {
+    "book-marks-key": "/"
+  },
+  "ConfigNet": {
+    "ConfigNet_Type": "1",
+    "ConfigNet_IdleDownload": false
+  },
+  "FlowMonitor": {
+    "DownloadSize": 7271935696,
+    "UploadSize": 278560643,
+    "Date": "2023.6.23"
+  },
+  "Bookmark": {
+    "ShowBookmarkBar": false
+  },
+  "BossKey": {
+    "BossKeyState": false,
+    "BossKeySwitch": false
+  },
+  "TaskDefaultSettings": {
+    "InitPath": "G:\\迅雷下载",
+    "DefaultPath": "G:\\迅雷下载",
+    "NewTaskDlgWithoutMainWnd": true,
+    "OrignHostThreads": 5,
+    "NewTaskStartMode": 1,
+    "UseLastCatalog": true,
+    "OpenFile": false
+  },
+  "DiskCache": {
+    "DiskCacheSelect": 256
+  },
+  "ConfigNormalSession": {
+    "ConfigNormal_MaxRunningTaskCount": 5,
+    "ConfigNormal_AutoRun": 0,
+    "ConfigNormal_AutoStartUnFinishedTask": false,
+    "ConfigNormal_AutoDeleteNotExistFile": false
+  },
+  "ConfigNoLimitDownload": {
+    "TaskCountAutoAdd": false,
+    "OpenNoLimitDownload": false
+  },
+  "BtGenericSettings": {
+    "AssocTorrent": true
+  },
+  "GenericSettings": {
+    "CheckCpu": 1,
+    "AnimationLevel": "0"
+  },
+  "Motitor": {
+    "MotitorIE浏览器": 1
+  },
+  "DownloadAndPlay": {
+    "EnableIPC": true
+  },
+  "BirdKeyVest": {
+    "vestURL": [],
+    "commonUrl": []
+  },
+  "ConfigSuspension": {
+    "SuspensionX": 803,
+    "SuspensionY": -140
+  },
+  "ConfigFloatPanel": {
+    "ConfigFloatPanelShowSpeedType": "0",
+    "FloatPanelValue": "0"
+  },
+  "Install": {
+    "PersonalUid": ""
+  },
+  "TaskList": {
+    "CategoryViewId1_SortAttr": -10,
+    "CategoryViewId1_SortState": -1,
+    "CategoryViewId2_SortAttr": -10,
+    "CategoryViewId2_SortState": -1,
+    "CategoryViewId3_SortAttr": -10,
+    "CategoryViewId3_SortState": -1
+  },
+  "Monitor": {
+    "MonitorClipBoard": true
+  },
+  "VipDownload": {
+    "LastTryEnterTime": 0
+  },
+  "PathAndCategory": {
+    "historyDownloadPaths": [
+      "F:\\Windows系统"
+    ],
+    "LastUsedPath": "F:\\Windows系统"
+  },
+  "ThunderFirstInstall": {
+    "IsFirstInstall": 1
+  },
+  "ConfigMsg": {
+    "ConfigMsg_Finish": true,
+    "ConfigMsg_PlayWaveWhileFinish": true,
+    "ConfigMsg_WavePath": "E:\\迅雷X_10.1.7.262_去广告绿色版V2\\Program\\download-complete.wav",
+    "ConfigMsg_DeleteFile": true
+  },
+  "MoveToDir": {
+    "LatestSavePath": []
+  }
+}
