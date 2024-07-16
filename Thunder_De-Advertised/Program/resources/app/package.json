@@ -1,0 +1,8 @@
+{
+  "name": "thunderx",
+  "version": "1.0.0",
+  "author": "Xunlei",
+  "description": "",
+  "license": "",
+  "main": "./out/main.js"
+}
