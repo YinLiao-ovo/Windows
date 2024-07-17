@@ -7,7 +7,7 @@ Here you can see a detailed description of each project.
 
 - Outstanding performance is a Windows power plan, which aims to give full play to the best performance of the computer after the introduction of this plan. This plan requires the system version. Please read README.txt in folder "Outstanding performance" for details.
 
--Thunder is an ad-free green version, please go to its directory to read the README.txt file to use.
+- Thunder is an ad-free green version, please go to its directory to read the README.txt file to use.
 
 - Set TrustedInstaller Permissions.reg is an integrated registry key. After running the import registry as an administrator on Windows, you can add the "Set TrustedInstaller Permissions.reg" item to the menu for all files. After clicking, you can quickly obtain the TrustedInstaller permission of the corresponding file.
 
