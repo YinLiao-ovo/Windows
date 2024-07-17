@@ -1,4 +1,4 @@
-#Detailed information(English)
+# Detailed information(English)
 Here you can see a detailed description of each project.
 
 -Resolve update error 0x800f0831.bat can solve the error report 0x800f0831 in Windows update.Be sure to run this batch as an administrator when using.
@@ -9,7 +9,7 @@ Here you can see a detailed description of each project.
 
 -Thunder is an ad-free green version, please go to its directory to read the README.txt file to use.
 
-#Detailed information(Chinese simplified)
+# Detailed information(Chinese simplified)
 在这里，您可以看到每个项目的详细描述。
 
 - Resolve update error 0x800f0831.bat可以解决Windows更新中的错误报告0x800f0831。使用时，请务必以管理员身份运行此批处理。
