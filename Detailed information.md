@@ -10,7 +10,6 @@ Here you can see a detailed description of each project.
 - Thunder is an ad-free green version, please go to its directory to read the README.txt file to use.
 
 - Set TrustedInstaller Permissions.reg is an integrated registry key. After running the import registry as an administrator on Windows, you can add the "Set TrustedInstaller Permissions.reg" item to the menu for all files. After clicking, you can quickly obtain the TrustedInstaller permission of the corresponding file.
-
 # Detailed information(Chinese simplified)
 在这里，您可以看到每个项目的详细描述。
 
