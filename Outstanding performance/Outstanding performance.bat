@@ -1,1 +1,2 @@
-powercfg -import %~dp0\Outstanding performance.pow
+powercfg -import %~dp0\Outstanding_performance.pow
+pause
