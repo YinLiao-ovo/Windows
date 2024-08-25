@@ -1,7 +1,7 @@
 # Windows
 提供一些针对 Windows 问题的常见技巧和解决方案。
 每个文件/文件夹都是一个独立的项目本体，都有不同的作用，可以在下方Detailed information找到相应的项目说明。
-# Detailed information(Chinese simplified)
+# 关于
 在这里，您可以看到每个项目的详细描述。
 
 - Resolve update error 0x800f0831.bat可以解决Windows更新中的错误报告0x800f0831。使用时，请务必以管理员身份运行此批处理。
